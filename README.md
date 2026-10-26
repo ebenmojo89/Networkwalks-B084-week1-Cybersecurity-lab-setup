@@ -280,7 +280,7 @@ This laboratory is intended strictly for education purposes only.
 
 # 🔗 Tools & Resources
 
-- **WinRAR:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
+- **WinRAR:** [https://www.win-rar.com/download.html?&L=0](https://www.win-rar.com/download.html?&L=0)
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 
@@ -291,7 +291,7 @@ This laboratory is intended strictly for education purposes only.
 **Ebenezer Twumasi Frimpong**\
 Cybersecurity Intern B084
 
-LinkedIn: (https://www.linkedin.com/in/ebenezer-twumasi-frimpong-0689143b8/)
+LinkedIn: [https://linkedin.com/in.ebenezer-twumasi-frimpong-0689143b8/](https://www.linkedin.com/in/ebenezer-twumasi-frimpong-0689143b8/)
 
 ---
 
