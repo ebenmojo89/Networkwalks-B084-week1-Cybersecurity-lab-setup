@@ -71,8 +71,6 @@ It can be used for activities such as:
 
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
-
 
 Additional target machines can be added to the same virtual network in future projects.
 
@@ -123,7 +121,8 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](2-screenshot-network-settings-1.png)
+<img width="1917" height="1077" alt="1-screenshot-network-setting" src="https://github.com/user-attachments/assets/c0a36c71-4908-46fd-820b-0cdfd5890c44" />
+
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
@@ -150,7 +149,8 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](3-screenshot-kali-linux.png)
+<img width="1920" height="983" alt="2-screenshot-kali-linux" src="https://github.com/user-attachments/assets/2d0c0373-07b6-4bd7-8bc7-793a4ed21c0c" />
+
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
@@ -172,7 +172,9 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+<img width="1920" height="982" alt="3-screenshot-kali-network-settings" src="https://github.com/user-attachments/assets/5653e163-d052-4e15-86ef-9ed961de9678" />
+
+
 
 ---
 
